@@ -1,0 +1,8 @@
+streamlit
+langchain-community
+langchain
+langchain-core
+faiss-cpu
+langchain-groq
+PyPDF2
+Pillow
